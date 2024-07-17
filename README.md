@@ -1,6 +1,6 @@
 ### Hello!
 
-I'm Anthony Frehner, a frontend web developer and architect. I like to contribute to open source when I have the time! I'm currently working at [Shopify](https://www.shopify.com/).
+I'm Anthony Frehner, a frontend web developer and architect. I'm currently working at [Shopify](https://www.shopify.com/).
 
 I love working in open source and on web standards/specs. Some contributions include:
 - I proposed what eventually became the new CSS [dvh, lvh, svh](https://github.com/w3c/csswg-drafts/issues/4329) units
