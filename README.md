@@ -2,8 +2,8 @@
 
 I'm Anthony Frehner, a frontend web developer and architect. I'm currently working at [Shopify](https://www.shopify.com/).
 
-I love working in open source and on web standards/specs. Some contributions include:
-- I proposed what eventually became the new CSS [dvh, lvh, svh](https://github.com/w3c/csswg-drafts/issues/4329) units
+I love working in open source and on web standards/specs. Some contributions are:
+- Proposed what eventually became the new CSS [dvh, lvh, svh](https://github.com/w3c/csswg-drafts/issues/4329) units
 - Implemented the majority of the [TC39 test262 tests for the `Set.union` method](https://github.com/tc39/test262/pull/3816)
 - Wrote [The Modern Guide to Packaging Your JavaScript Library](https://github.com/frehner/modern-guide-to-packaging-js-library)
 - Provided feedback on [App History](https://github.com/WICG/app-history)
