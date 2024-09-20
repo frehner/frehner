@@ -12,4 +12,3 @@ I love working in open source and on web standards/specs. Some contributions are
 I also like to write articles, and occasionally I give talks. For example I:
 - Wrote an article on the [`dvh`, `lvh`, and `svh`](https://dev.to/frehner/css-vh-dvh-lvh-svh-and-vw-units-27k4) units
 - Spoke at [React Rally 2019](https://youtu.be/RgqSlRbbvwA)
-- Detailed how to [compose JavaScript decorators](https://dev.to/frehner/composing-javascript-decorators-2o38) with the new syntax
