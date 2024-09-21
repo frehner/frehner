@@ -1,1 +1,1 @@
-Check out my personal site at [frehner.me](https://frehner.me)
+Read more about me at [frehner.me](https://frehner.me/about-me)
