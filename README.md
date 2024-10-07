@@ -1,1 +1,1 @@
-Read more about me at [frehner.me](https://frehner.me/about)
+See [frehner.me](https://frehner.me)
